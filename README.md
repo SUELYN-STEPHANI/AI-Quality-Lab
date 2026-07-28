@@ -1,37 +1,60 @@
 # AI Quality Lab
 
-Professional research dedicated to the evaluation of Large Language Models, AI-generated responses, and structured quality assessment methodologies.
-
-This repository documents practical research, evaluation frameworks, benchmarking studies, and comparative analyses designed to improve AI quality, reliability, factual accuracy, and user experience.
+Professional portfolio focused on evaluating Large Language Models (LLMs), AI-generated responses, prompt quality and structured assessment methodologies.
 
 ---
 
-## Research Areas
+## About
 
-- Large Language Model Evaluation
-- AI Response Evaluation
+This repository documents practical case studies, benchmarking activities and evaluation frameworks designed to assess the quality, reliability and consistency of AI systems.
+
+The project demonstrates hands-on experience in AI Quality workflows commonly found in model evaluation, human feedback and response assessment.
+
+---
+
+## Skills Demonstrated
+
+- LLM Evaluation
 - Prompt Evaluation
-- Human Feedback
+- Response Ranking
 - Hallucination Detection
 - Factual Verification
 - Instruction Following
-- Response Ranking
-- Portuguese Linguistic Evaluation
+- AI Response Analysis
+- Comparative Benchmarking
+- Quality Assurance
+- Human Feedback
 
 ---
 
-## Current Projects
+## Repository Structure
 
-- Evaluation Framework Development
-- Comparative Model Analysis
-- AI Response Benchmarking
-- Prompt Quality Assessment
-- Hallucination Detection Studies
+- CASE-001 — Comparative LLM Evaluation
+- CASE-002 — Hallucination Detection
+- CASE-003 — Prompt Quality Evaluation
+- CASE-004 — Response Ranking
+- BENCHMARK-001 — Comparative Benchmark
 
 ---
 
-## Mission
+## Evaluation Framework
 
-Contribute to the development of more accurate, reliable, transparent, and trustworthy AI systems through structured evaluation methodologies.
+All case studies follow the AI Quality Lab Evaluation Framework v1.0.
 
-Build practical evaluation methodologies that contribute to the development of more accurate, reliable, and trustworthy AI systems.
+Core evaluation dimensions include:
+
+- Accuracy
+- Instruction Following
+- Completeness
+- Clarity
+- Reasoning
+- Factual Reliability
+- Hallucination Risk
+- Safety
+- Usefulness
+
+---
+
+## Objective
+
+Build a structured portfolio demonstrating practical AI Quality skills through reproducible evaluation methodologies and documented case studies.
