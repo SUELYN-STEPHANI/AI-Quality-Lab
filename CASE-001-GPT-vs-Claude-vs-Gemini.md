@@ -1,16 +1,12 @@
 # CASE-001
 
-## Comparative Evaluation of Large Language Model Responses
+# Comparative Evaluation of AI Responses
 
-### Objective
+## Objective
 
-Evaluate how different Large Language Models respond to the same prompt using structured quality assessment criteria.
+Evaluate how three Large Language Models respond to the same prompt using structured quality assessment criteria.
 
----
-
-## Prompt
-
-> (Prompt to be evaluated)
+The purpose of this study is to compare response quality, factual reliability, clarity, instruction adherence, and overall usefulness.
 
 ---
 
@@ -24,23 +20,54 @@ Evaluate how different Large Language Models respond to the same prompt using st
 
 ## Evaluation Criteria
 
-| Criterion | Score (1–5) | Notes |
-|-----------|------------:|-------|
-| Accuracy | | |
-| Instruction Following | | |
-| Completeness | | |
-| Clarity | | |
-| Factual Reliability | | |
-| Hallucination Risk | | |
+| Criterion | Weight |
+|-----------|-------:|
+| Accuracy | 20% |
+| Instruction Following | 20% |
+| Clarity | 20% |
+| Completeness | 20% |
+| Factual Reliability | 20% |
 
 ---
 
-## Overall Assessment
+## Prompt
 
-_To be completed after the evaluation._
+*To be defined.*
+
+---
+
+## Responses
+
+### ChatGPT
+
+_To be evaluated._
+
+---
+
+### Claude
+
+_To be evaluated._
+
+---
+
+### Gemini
+
+_To be evaluated._
+
+---
+
+## Comparative Analysis
+
+_To be completed._
+
+---
+
+## Final Ranking
+
+_To be completed._
 
 ---
 
 ## Conclusion
 
-_To be completed after the evaluation._
+_To be completed._
