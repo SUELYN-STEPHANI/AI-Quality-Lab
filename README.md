@@ -1,10 +1,10 @@
 # AI Quality Lab
 
-![Last Commit](https://img.shields.io/github/last-commit/SEU_USUARIO/SEU_REPOSITORIO)
+![Last Commit](https://img.shields.io/github/last-commit/SUELYN-STEPHANI/AI-Quality-Lab?style=for-the-badge)
 
-![Repo Size](https://img.shields.io/github/repo-size/SEU_USUARIO/SEU_REPOSITORIO)
+![Repository Size](https://img.shields.io/github/repo-size/SUELYN-STEPHANI/AI-Quality-Lab?style=for-the-badge)
 
-![License](https://img.shields.io/github/license/SEU_USUARIO/SEU_REPOSITORIO)
+![License](https://img.shields.io/github/license/SUELYN-STEPHANI/AI-Quality-Lab?style=for-the-badge)
 
 Professional portfolio focused on evaluating Large Language Models (LLMs), AI-generated responses, prompt quality and structured assessment methodologies.
 
