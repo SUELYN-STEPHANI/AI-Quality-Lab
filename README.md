@@ -57,4 +57,6 @@ Core evaluation dimensions include:
 
 ## Objective
 
-Build a structured portfolio demonstrating practical AI Quality skills through reproducible evaluation methodologies and documented case studies.
+Demonstrate practical expertise in AI Quality through structured evaluations of Large Language Models, prompts and AI-generated responses.
+
+This portfolio showcases analytical reasoning, consistent evaluation methodologies and documented case studies that reflect real-world AI Quality tasks, including response evaluation, prompt assessment, response ranking and hallucination detection.
