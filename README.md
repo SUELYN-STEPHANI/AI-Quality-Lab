@@ -1,5 +1,7 @@
 # AI Quality Lab
-
+![GitHub last commit](https://img.shields.io/github/last-commit/SEU-USUARIO/AI-Quality-Lab)
+![GitHub repo size](https://img.shields.io/github/repo-size/SEU-USUARIO/AI-Quality-Lab)
+![License](https://img.shields.io/github/license/SEU-USUARIO/AI-Quality-Lab)
 Professional portfolio focused on evaluating Large Language Models (LLMs), AI-generated responses, prompt quality and structured assessment methodologies.
 
 ---
