@@ -1,195 +1,107 @@
-# 🇧🇷 Brazilian Portuguese Linguistic Evaluation
+<div align="center">
 
-## Overview
+# 🇧🇷 Brazilian Portuguese AI Evaluation
 
-This repository demonstrates my work in evaluating Brazilian Portuguese for Large Language Models (LLMs), with a focus on linguistic quality, semantic accuracy, contextual understanding, and natural language evaluation.
+### Linguistic Quality • Semantics • Pragmatics • Tone • Fluency • LLM Evaluation
 
-The goal is to assess AI-generated responses beyond grammar, measuring whether the language is accurate, natural, contextually appropriate, and aligned with native Brazilian Portuguese usage.
+Specialized portfolio focused on evaluating Brazilian Portuguese in Large Language Models (LLMs).
+
+[![AI Quality](https://img.shields.io/badge/AI-Quality-blue?style=for-the-badge)]()
+[![Brazilian Portuguese](https://img.shields.io/badge/Brazilian-Portuguese-success?style=for-the-badge)]()
+[![LLM Evaluation](https://img.shields.io/badge/LLM-Evaluation-orange?style=for-the-badge)]()
+[![Prompt Evaluation](https://img.shields.io/badge/Prompt-Evaluation-red?style=for-the-badge)]()
+
+</div>
 
 ---
 
-# Areas of Expertise
+# About
 
-- Brazilian Portuguese Language Evaluation
-- Semantic Analysis
-- Pragmatic Analysis
-- Tone Evaluation
-- Formal vs. Informal Register
-- Grammar Validation
-- Orthographic Review
-- Syntax Analysis
-- Lexical Precision
-- Terminology Consistency
-- Context Preservation
-- Fluency Assessment
-- Idiomatic Expressions
-- Regional Language Variations
-- Hallucination Detection
-- Factual Verification
-- Response Ranking
+Modern AI systems require much more than grammatical correctness.
+
+This project demonstrates practical methodologies used to evaluate Brazilian Portuguese across multiple linguistic dimensions, ensuring responses are natural, context-aware, semantically accurate, and culturally appropriate.
+
+---
+
+# Core Evaluation Areas
+
+| Area | Description |
+|------|-------------|
+| 🧠 Semantics | Preservation of meaning |
+| 💬 Pragmatics | Context and user intention |
+| 🎯 Tone | Formal, informal and technical communication |
+| 🇧🇷 Brazilian Portuguese | Native-level fluency |
+| 📚 Grammar | Agreement, punctuation and syntax |
+| ✍️ Orthography | Brazilian Portuguese spelling |
+| 🔍 Terminology | Technical vocabulary consistency |
+| 📖 Context | Response coherence |
+| ⚖️ Fact Checking | Accuracy verification |
+| 🚨 Hallucination Detection | Unsupported information |
+| 🤖 Prompt Evaluation | Instruction adherence |
+| ⭐ Response Ranking | Comparative quality assessment |
+
+---
+
+# Evaluation Workflow
+
+```text
+Prompt
+      │
+      ▼
+LLM Response
+      │
+      ▼
+Semantic Analysis
+      │
+      ▼
+Pragmatic Analysis
+      │
+      ▼
+Tone Evaluation
+      │
+      ▼
+Grammar & Orthography
+      │
+      ▼
+Fact Checking
+      │
+      ▼
+Quality Score
+```
+
+---
+
+# Skills Demonstrated
+
+- Brazilian Portuguese
+- Linguistic Analysis
+- Semantics
+- Pragmatics
+- Technical Writing
 - Prompt Evaluation
 - LLM Evaluation
-
----
-
-# Evaluation Categories
-
-## Semantic Accuracy
-
-Determines whether the generated response preserves the intended meaning without introducing distortions or omissions.
-
----
-
-## Pragmatic Analysis
-
-Evaluates whether the response correctly interprets context, intention, audience, and conversational objectives.
-
----
-
-## Tone Evaluation
-
-Verification of:
-
-- Formal tone
-- Informal tone
-- Technical tone
-- Academic tone
-- Conversational tone
-- Corporate communication
-- Customer support communication
-
----
-
-## Grammar
-
-Evaluation includes:
-
-- Agreement
-- Verb tense
-- Pronoun usage
-- Punctuation
-- Sentence structure
-- Readability
-
----
-
-## Orthography
-
-Analysis according to current Brazilian Portuguese orthographic standards.
-
----
-
-## Syntax
-
-Evaluation of sentence construction, cohesion, coherence, and structural quality.
-
----
-
-## Fluency
-
-Assessment of whether the text sounds naturally written by a native Brazilian Portuguese speaker.
-
----
-
-## Lexical Precision
-
-Verification that vocabulary choices are appropriate for the intended audience and context.
-
----
-
-## Technical Portuguese
-
-Evaluation of specialized terminology used in:
-
-- Technology
-- Artificial Intelligence
-- Finance
-- Healthcare
-- Law
-- Engineering
-- Business
-
----
-
-## Regional Brazilian Portuguese
-
-Evaluation of regional language variations, including differences commonly found in:
-
-- São Paulo
-- Rio de Janeiro
-- Minas Gerais
-- Bahia
-- Paraná
-- Rio Grande do Sul
-- Northeast Brazil
-- Northern Brazil
-
----
-
-# AI Evaluation Skills
-
-- Prompt Evaluation
-- Response Evaluation
 - AI Quality Assurance
-- Large Language Model Evaluation
-- Human Feedback
 - Hallucination Detection
-- Response Ranking
 - Fact Checking
-- Context Validation
-- Consistency Evaluation
-- Linguistic Quality Assessment
+- Response Ranking
 
 ---
 
-# Quality Checklist
+# Repository Goal
 
-✔ Grammar
-
-✔ Orthography
-
-✔ Syntax
-
-✔ Semantics
-
-✔ Pragmatics
-
-✔ Fluency
-
-✔ Tone
-
-✔ Context
-
-✔ Terminology
-
-✔ Consistency
-
-✔ Naturalness
-
-✔ Factual Accuracy
-
-✔ Hallucination Detection
-
-✔ Prompt Adherence
+To demonstrate practical expertise in evaluating Brazilian Portuguese for Artificial Intelligence systems, supporting Human Feedback workflows, AI Quality programs, and Large Language Model evaluation.
 
 ---
 
-# Repository Purpose
+<div align="center">
 
-This repository serves as a professional portfolio demonstrating competencies in Brazilian Portuguese linguistic evaluation for Artificial Intelligence systems, including Large Language Models (LLMs), conversational AI, and Generative AI applications.
-
----
-
-# Professional Profile
+## 👩‍💻 Professional Profile
 
 **Suelyn Stephani**
 
-AI Quality Analyst • LLM Evaluation • Prompt Evaluation • Brazilian Portuguese Linguistic Evaluation
+AI Quality Analyst • Brazilian Portuguese Linguistic Evaluation • LLM Evaluation
 
-LinkedIn:
+🔗 LinkedIn
 
-https://www.linkedin.com/in/SUELYN-STEPHANI
-
-GitHub:
-
-https://github.com/SUELYN-STEPHANI
+https://linkedin.com/in/SUELYN-NATAL
+</div>
