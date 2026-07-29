@@ -1,5 +1,11 @@
 # AI Quality Lab
 
+Independent portfolio focused on AI Quality, Large Language Model (LLM) Evaluation, Prompt Assessment, Response Ranking, Factual Verification, Hallucination Detection, and Brazilian Portuguese Linguistic Evaluation.
+
+## Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/SUELYN-STEPHANI
+  
 ![Last Commit](https://img.shields.io/github/last-commit/SUELYN-STEPHANI/AI-Quality-Lab)
 
 Professional portfolio focused on evaluating Large Language Models (LLMs), AI-generated responses, prompt quality and structured assessment methodologies.
